@@ -1,0 +1,15 @@
+D:\C#1\dz14_10\Domashka1\Tesk3\bin\Debug\net6.0\Tesk3.exe
+D:\C#1\dz14_10\Domashka1\Tesk3\bin\Debug\net6.0\Tesk3.deps.json
+D:\C#1\dz14_10\Domashka1\Tesk3\bin\Debug\net6.0\Tesk3.runtimeconfig.json
+D:\C#1\dz14_10\Domashka1\Tesk3\bin\Debug\net6.0\Tesk3.dll
+D:\C#1\dz14_10\Domashka1\Tesk3\bin\Debug\net6.0\Tesk3.pdb
+D:\C#1\dz14_10\Domashka1\Tesk3\obj\Debug\net6.0\Tesk3.csproj.AssemblyReference.cache
+D:\C#1\dz14_10\Domashka1\Tesk3\obj\Debug\net6.0\Tesk3.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#1\dz14_10\Domashka1\Tesk3\obj\Debug\net6.0\Tesk3.AssemblyInfoInputs.cache
+D:\C#1\dz14_10\Domashka1\Tesk3\obj\Debug\net6.0\Tesk3.AssemblyInfo.cs
+D:\C#1\dz14_10\Domashka1\Tesk3\obj\Debug\net6.0\Tesk3.csproj.CoreCompileInputs.cache
+D:\C#1\dz14_10\Domashka1\Tesk3\obj\Debug\net6.0\Tesk3.dll
+D:\C#1\dz14_10\Domashka1\Tesk3\obj\Debug\net6.0\refint\Tesk3.dll
+D:\C#1\dz14_10\Domashka1\Tesk3\obj\Debug\net6.0\Tesk3.pdb
+D:\C#1\dz14_10\Domashka1\Tesk3\obj\Debug\net6.0\Tesk3.genruntimeconfig.cache
+D:\C#1\dz14_10\Domashka1\Tesk3\obj\Debug\net6.0\ref\Tesk3.dll
